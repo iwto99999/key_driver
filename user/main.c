@@ -26,7 +26,7 @@ int main(void)
 	key_Init();
 	TIM2_Init_APP();
 	
-	// anpin
+	// zing
 
 	while(1)
 	{
